@@ -30,8 +30,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [2 Sum](https://leetcode.com/problems/two-sum/)  | ✅ | Easy |
-| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |  |  |
-| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) |  |  |
+| [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | ✅ | Medium |
+| [Add 2 Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅ | Medium |
 | [Copy linked list with arbitrary pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)  |  |  |
 | [Level Order Tree Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)  |  |  |
 | [Connect all Siblings](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)  |  |  |
