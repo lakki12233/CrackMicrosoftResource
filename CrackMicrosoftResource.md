@@ -57,7 +57,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  | ✅ | Medium |
 | [Majority Element]( https://leetcode.com/problems/majority-element/)  | ✅ | Easy |
 | [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  | ✅ | Medium |
-| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) |  |  |
+| [Check for BST]( https://leetcode.com/problems/validate-binary-search-tree/) | ✅ | Medium |
 
 ---
 <br>
