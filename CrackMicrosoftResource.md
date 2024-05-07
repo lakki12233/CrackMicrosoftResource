@@ -66,7 +66,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
-| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  |  |  |
+| [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  | ✅ | Easy |
 | [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  |  |  |
 | [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  |  |  |
 | [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
