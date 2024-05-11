@@ -69,8 +69,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Finding middle element in a linked list]( https://leetcode.com/problems/middle-of-the-linked-list/)  | ✅ | Easy |
 | [Root to leaf path sum](https://leetcode.com/problems/path-sum/)  | ✅ | Easy |
 | [Reverse a linked list]( https://leetcode.com/problems/reverse-linked-list/)  | ✅ | Easy |
-| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  |  |  |
-| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  |  |  |
+| [Remove every k’th node]( https://practice.geeksforgeeks.org/problems/remove-every-kth-node/1/)  | ✅ | Easy |
+| [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  | ✅ | Easy |
 | [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
 | [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) |  |  |
 | [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  |  |  |
