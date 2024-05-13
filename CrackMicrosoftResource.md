@@ -73,7 +73,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Merge 2 sorted linked list]( https://leetcode.com/problems/merge-two-sorted-lists/)  | ✅ | Easy |
 | [Longest Even Length Substring such that Sum of First and Second Half is same]( https://practice.geeksforgeeks.org/problems/e015cb4d3f354b035d9665e7c8a54a7aefb1901b/1/) |  |  |
 | [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) | ✅ | Medium |
-| [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  |  |  |
+| [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  | ✅ | Easy |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  |  |  |
 | [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |  |  |
 | [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
