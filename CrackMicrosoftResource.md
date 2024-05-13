@@ -49,11 +49,11 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Find all sum combinations]( https://leetcode.com/problems/combination-sum/) | ✅ | Medium |
-| [Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching/)  |  |  |
+| [Regular Expression Matching]( https://leetcode.com/problems/regular-expression-matching/)  | ❌ |  |
 | [Clone a directed graph](https://leetcode.com/problems/clone-graph/)  | ✅ | Medium |
-| [Closest Meeting Point]( https://www.educative.io/m/closest-meeting-point) |  |  |
+| [Closest Meeting Point]( https://www.educative.io/m/closest-meeting-point) | ❌ |  |
 | [Search 2D Matrix]( https://leetcode.com/problems/search-a-2d-matrix//) | ✅ | Medium |
-| [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  |  |  |
+| [Is Binary Number Multiple of 3]( https://practice.geeksforgeeks.org/problems/is-binary-number-multiple-of-30654/1)  | ❌ |  |
 | [Kadane's Algorithm]( https://leetcode.com/problems/maximum-subarray/)  | ✅ | Medium |
 | [Majority Element]( https://leetcode.com/problems/majority-element/)  | ✅ | Easy |
 | [Search in a Rotated Array]( https://leetcode.com/problems/search-in-rotated-sorted-array/)  | ✅ | Medium |
