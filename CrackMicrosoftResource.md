@@ -75,7 +75,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [k largest elements in an array]( https://leetcode.com/problems/kth-largest-element-in-an-array/) | ✅ | Medium |
 | [Mirror Tree]( https://leetcode.com/problems/invert-binary-tree/)  | ✅ | Easy |
 | [Median of Two Sorted Arrays]( https://leetcode.com/problems/median-of-two-sorted-arrays/)  | ✅ | Hard |
-| [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) |  |  |
+| [Determine if Two Trees are Identical]( https://leetcode.com/problems/same-tree/) | ✅ | Easy |
 | [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
 | [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |  |  |
 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/) |  |  |
