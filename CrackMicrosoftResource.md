@@ -79,7 +79,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Max Rectangle in Binary Matrix]( https://leetcode.com/problems/maximal-rectangle/) |  |  |
 | [Maximum Product Subarray ]( https://leetcode.com/problems/maximum-product-subarray/) |  |  |
 | [Edit Distance](https://practice.geeksforgeeks.org/problems/edit-distance3702/1/) |  |  |
-| [Longest Arithmetic Subsequence]( https://leetcode.com/problems/longest-arithmetic-subsequence/) |  |  |
+| [Longest Arithmetic Subsequence]( https://leetcode.com/problems/longest-arithmetic-subsequence/) | ✅ | Medium |
 | [Coin Change]( https://leetcode.com/problems/coin-change-2/)  |  |  |
 
 ---
