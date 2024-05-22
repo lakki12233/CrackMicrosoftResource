@@ -90,8 +90,8 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | Problem Link | Status | Difficulty |
 | ------ | ------ | ------ |
 | [Spiral Matrix II]( https://leetcode.com/problems/spiral-matrix-ii/) | ✅ | Medium |
-| [Largest Number ]( https://leetcode.com/problems/largest-number/) |  |  |
-| [Maximum Distance](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) |  |  |
+| [Largest Number ]( https://leetcode.com/problems/largest-number/) | ✅ | Medium |
+| [Maximum Distance](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | ✅ | Medium |
 | [Next Permutation]( https://leetcode.com/problems/next-permutation/) |  |  |
 | [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  |  |  |
 | [Hotel Bookings Possible]( https://www.interviewbit.com/problems/hotel-bookings-possible/) |  |  |
