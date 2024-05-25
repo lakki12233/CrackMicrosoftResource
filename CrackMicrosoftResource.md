@@ -93,7 +93,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Largest Number ]( https://leetcode.com/problems/largest-number/) | ✅ | Medium |
 | [Maximum Distance](https://leetcode.com/problems/maximum-distance-between-a-pair-of-values/) | ✅ | Medium |
 | [Next Permutation]( https://leetcode.com/problems/next-permutation/) |  |  |
-| [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  |  |  |
+| [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  | ✅ | Medium |
 | [Hotel Bookings Possible]( https://www.interviewbit.com/problems/hotel-bookings-possible/) |  |  |
 | [Flip]( https://www.interviewbit.com/problems/flip/)  |  |  |
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
