@@ -96,7 +96,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Anti Diagonals]( https://leetcode.com/problems/diagonal-traverse/)  | ✅ | Medium |
 | [Hotel Bookings Possible]( https://www.interviewbit.com/problems/hotel-bookings-possible/) |  |  |
 | [Flip]( https://www.interviewbit.com/problems/flip/)  |  |  |
-| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) |  |  |
+| [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) | ✅ | Medium |
 | [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |  |  |
 | [Unique Paths]( https://leetcode.com/problems/unique-paths/) |  |  |
 | [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
