@@ -99,7 +99,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Rotting Oranges]( https://leetcode.com/problems/rotting-oranges/) | ✅ | Medium |
 | [Shortest Unsorted Continuous Subarray ]( https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | ✅ | Medium |
 | [Unique Paths]( https://leetcode.com/problems/unique-paths/) | ✅ | Medium |
-| [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) |  |  |
+| [Maximum Depth of Binary Tree]( https://leetcode.com/problems/maximum-depth-of-binary-tree/) | ✅ | Easy |
 | [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |  |  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |  |  |
 | [Populating Next Right Pointers in Each Node]( https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |  |  |
