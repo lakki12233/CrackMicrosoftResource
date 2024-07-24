@@ -103,7 +103,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Vertical Order Traversal of a Binary Tree ]( https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/)  |  |  |
 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | ✅ | Medium |
 | [Populating Next Right Pointers in Each Node]( https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) | ✅ | Medium |
-| [Longest Increasing Subsequence]( https://leetcode.com/problems/longest-increasing-subsequence/) |  |  |
+| [Longest Increasing Subsequence]( https://leetcode.com/problems/longest-increasing-subsequence/) | ✅ | Medium |
 
 ---
 <br>
