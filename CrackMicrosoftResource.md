@@ -114,7 +114,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | ------ | ------ | ------ |
 | [Partition List](https://leetcode.com/problems/partition-list/) |  |  |
 | [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  |
-| [Tapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/) |  |  |
+| [Tapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/) | ✅ | Medium |
 | [Simplify Path](https://leetcode.com/problems/simplify-path/) |  |  |
 | [Min Stack](https://leetcode.com/problems/min-stack/) |  |  |
 | [All Unique Permutations ](https://leetcode.com/problems/permutations-ii/) |  |  |
