@@ -116,7 +116,7 @@ Difficulty Rating: **Easy | Easy-Medium | Medium | Medium-Hard | Hard**
 | [Reverse Nodes in k-Group]( https://leetcode.com/problems/reverse-nodes-in-k-group/) |  |  |
 | [Tapping Rain Water]( https://leetcode.com/problems/trapping-rain-water/) | ✅ | Medium |
 | [Simplify Path](https://leetcode.com/problems/simplify-path/) | ✅ | Medium |
-| [Min Stack](https://leetcode.com/problems/min-stack/) |  |  |
+| [Min Stack](https://leetcode.com/problems/min-stack/) | ✅ | Medium |
 | [All Unique Permutations ](https://leetcode.com/problems/permutations-ii/) |  |  |
 | [Generate all Parentheses](https://leetcode.com/problems/generate-parentheses/)  |  |  |
 | [Largest Continuous Sequence Zero Sum](https://www.interviewbit.com/problems/largest-continuous-sequence-zero-sum/)  |  |  |
